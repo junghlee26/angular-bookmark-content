@@ -101,6 +101,5 @@ namespace Sabio.Web.Controllers.Api
 
             return Request.CreateResponse(HttpStatusCode.OK, response);
         }
-
     }
 }
