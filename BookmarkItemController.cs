@@ -1,4 +1,4 @@
-namespace Sabio.Web.Controllers.Api
+namespace BlakWealth.Web.Controllers.Api
 {
     [RoutePrefix("api/bookmark")]
     public class BookmarkItemController : ApiController
